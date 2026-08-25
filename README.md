@@ -35,7 +35,7 @@ How to reach me
 
 Email: summerpandey23@augustana.edu
 
-LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/summerpandey/)](https://www.linkedin.com/in/summerpandey/)
+LinkedIn:https://www.linkedin.com/in/summerpandey/
 
 I'm always happy to connect about AI, software engineering, research, startups, or athletics.
 <!--
