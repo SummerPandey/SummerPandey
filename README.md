@@ -1,4 +1,4 @@
-##Hi, I'm Summer Pandey 👋##
+Hi, I'm Summer Pandey 👋
 
 I'm a Computer Science and Data Science student at Augustana College, with a minor in Mathematics. I enjoy building practical AI systems that connect machine learning, edge computing, and real-world problem solving.
 
