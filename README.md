@@ -4,8 +4,6 @@ I'm a Computer Science and Data Science student at Augustana College, with a min
 
 🇳🇵 Originally from Nepal
 
-🎓 Graduating in December 2026
-
 🧠 Interested in AI/ML, computer vision, data science, and software engineering
 
 🏃 NCAA Division III sprinter
