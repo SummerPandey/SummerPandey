@@ -12,7 +12,7 @@
 
 ---
 
-I build practical AI tools, mostly computer vision that runs on edge devices like the NVIDIA Jetson, along with the web apps around them. I also teach AI and machine learning on Jetson hardware as an instructor with iD Tech at Stanford. I'm minoring in math, and off the keyboard I'm an NCAA Division III sprinter.
+I build practical AI tools, mostly computer vision that runs on edge devices like the NVIDIA Jetson, along with the web apps around them. I also teach AI and machine learning on Jetson hardware as an instructor with iD Tech at Stanford. I'm minoring in math, and off the keyboard I'm a sprinter.
 
 ### Now
 
