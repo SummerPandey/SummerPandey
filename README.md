@@ -1,54 +1,23 @@
-Hi, I'm Summer Pandey 👋
+<h1 align="center">Summer Pandey</h1>
 
-I'm a Computer Science and Data Science student at Augustana College, with a minor in Mathematics. I enjoy building practical AI systems that connect machine learning, edge computing, and real-world problem solving.
+<p align="center">
+  Computer Science + Data Science at Augustana College &nbsp;·&nbsp; Rock Island, IL &nbsp;·&nbsp; from Nepal 🇳🇵
+</p>
 
-🇳🇵 Originally from Nepal
+<p align="center">
+  <a href="https://summerpandey.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/summerpandey/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:summerpandey23@augustana.edu">Email</a>
+</p>
 
-🧠 Interested in AI/ML, computer vision, data science, and software engineering
+---
 
-🏃 NCAA Division III sprinter
+I build practical AI tools, mostly computer vision that runs on edge devices like the NVIDIA Jetson, along with the web apps around them. I also teach AI and machine learning on Jetson hardware as an instructor with iD Tech at Stanford. I'm minoring in math, and off the keyboard I'm an NCAA Division III sprinter.
 
-💡 I care about creating technology that is useful, responsible, and accessible
+### Now
 
-What I'm currently working on
+- **Argus:** privacy-first computer vision for operating-room safety, starting with real-time hand-hygiene monitoring on a Jetson.
+- **Marketing mix modeling:** measuring how marketing channels drive student applications at Augustana with regularized regression and time-series features.
+- Strengthening my foundations in data structures, algorithms, and systems.
 
-Argus — a privacy-conscious edge computer vision platform for real-time safety and workflow monitoring
-
-Marketing Mix Modeling — analyzing how marketing channels influence student applications using statistical learning and time-series features
-
-AI/ML projects on NVIDIA Jetson — experimenting with computer vision, GPU inference, and deployment on edge devices
-
-Strengthening my foundations in data structures, algorithms, systems, and scalable software development
-
-Tools I use
-
-Languages
-Python · C++ · C · Java · SQL · R · JavaScript · TypeScript
-
-AI, ML & Data
-PyTorch · TensorFlow · YOLO · ONNX · TensorRT · scikit-learn · pandas · NumPy
-
-Development & Infrastructure
-Linux · NVIDIA Jetson · CUDA · Docker · Git · PostgreSQL · Node.js · REST APIs
-
-How to reach me
-
-Email: summerpandey23@augustana.edu
-
-LinkedIn:https://www.linkedin.com/in/summerpandey/
-
-I'm always happy to connect about AI, software engineering, research, startups, or athletics.
-<!--
-**SummerPandey/SummerPandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>Always happy to talk about AI, edge computing, research, or startups.</sub>
