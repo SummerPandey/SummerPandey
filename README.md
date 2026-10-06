@@ -32,4 +32,13 @@ I build practical AI tools, mostly computer vision that runs on edge devices lik
 | [Voice Workout Logger](https://github.com/SummerPandey/Google-Hackathon) | Hackathon Chrome extension: say your workout out loud and get back a clean log in both kg and lbs. | JavaScript, Web Speech API |
 | [Quiz Game](https://github.com/SummerPandey/Quiz-Game-Flutter) | A multiple-choice quiz app that tests Flutter basics. | Flutter, Dart |
 
+### Tech I use
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,flutter,dart,supabase,postgres,docker,linux,vercel&theme=dark">
+  <img alt="Python, TypeScript, JavaScript, React, Next.js, Tailwind CSS, Flutter, Dart, Supabase, PostgreSQL, Docker, Linux, Vercel" src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,flutter,dart,supabase,postgres,docker,linux,vercel&theme=light">
+</picture>
+
+Plus NVIDIA Jetson, MediaPipe, and the Gemini and Groq APIs.
+
 <sub>Always happy to talk about AI, edge computing, research, or startups.</sub>
